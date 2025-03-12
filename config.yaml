@@ -444,12 +444,12 @@ rewards:
       start_menu: 0.010755150794982913
       stats_menu: 0.09938607215881348
       surf_tiles: 0.9939162135124208
-      use_surf: 0.0
+      use_surf: 0.5 # 0.0
       useful_item: 1.3436599969863892
       use_ball_count: -10.0
       valid_cut_coords: 4.822387218475342
       valid_pokeflute_coords: 4.840555191040039
-      valid_surf_coords: 4.8967742919921875
+      valid_surf_coords: 1 # 4.8967742919921875
 
 # Policies to use for training.
 # Each policy is keyed by a name for the commandline.
